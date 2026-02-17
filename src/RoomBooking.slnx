@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RoomBooking.API/RoomBooking.API.csproj" />
+  <Project Path="RoomBooking.Application/RoomBooking.Application.csproj" />
+  <Project Path="RoomBooking.Domain/RoomBooking.Domain.csproj" />
+  <Project Path="RoomBooking.Infrastructure/RoomBooking.Infrastructure.csproj" />
+</Solution>
